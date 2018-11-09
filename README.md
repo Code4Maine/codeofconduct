@@ -1,7 +1,7 @@
 codeofconduct
 =============
 
-####Code for Maine's Code of Conduct
+#### Code for Maine's Code of Conduct
 
 The Code for Maine community expects that Code for Maine network activities, events, and digital forums:
 
@@ -20,7 +20,7 @@ The Code for Maine community expects that Code for Maine network activities, eve
 
 Code for Maine reserves the right to ask anyone in violation of these policies not to participate in Code for Maine network activities, events, and digital forums.
 
-####Code for Maine's Anti-Harassment Policy
+#### Code for Maine's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -44,7 +44,7 @@ If you cannot reach an event organizer or forum administrator and/or it is an em
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
